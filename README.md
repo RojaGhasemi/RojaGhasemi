@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🤝 You can see my experience on my Linkedin [My linkedin](https://www.youtube.com/@sheikh_python)
 
-- 👨‍💻 All of my projects are available at [https://github.com/RojaGhasemi](https://github.com/sheikh-python)
+- 👨‍💻 All of my projects are available at [https://github.com/RojaGhasemi](https://github.com/RojaGhasemi)
 
 
 - 📫 How to reach me **roja.ghasemi85@gmail.com**
