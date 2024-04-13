@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Django Framework and Machine Learning**
 
-- 🤝 You can see my experience on my Linkedin [My linkedin](https://www.youtube.com/@sheikh_python)
+- 🤝 You can see my experience on my Linkedin [My linkedin]([https://www.youtube.com/@sheikh_python](https://www.linkedin.com/in/roja-ghasemi-94020974?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 - 👨‍💻 All of my projects are available at [https://github.com/RojaGhasemi](https://github.com/RojaGhasemi)
 
