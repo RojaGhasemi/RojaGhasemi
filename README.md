@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roja</h1>
-<h3 align="center">A passionate AI eA passionate AI especially computer vision and image processing from UK</h3>
+<h3 align="center">A passionate AI especially computer vision and image processing from UK</h3>
 <img align="right" alt="roja" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*Jwt-NggFZflXNmkndLYLJA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojaghasemi&label=Profile%20views&color=0e75b6&style=flat" alt="rojaghasemi" /> </p>
