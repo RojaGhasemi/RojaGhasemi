@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roja</h1>
 <h3 align="center">A passionate AI especially computer vision and image processing from UK</h3>
+Highly accurate and experienced computer vision with several years of experience . I use predictive, detection and diagnosis modeling, Data processing to solve Challenging Medical problems. Currently, most of my work is focused on medical image processing and I have implemented many image processing neural networks such as CNN, etc. (You can also check them in my GitHub). I have also done projects in field of brain tumor. My research interest's are : intelligent monitoring systems, Medical Image Processing. I have done lots of works in this fields which you can see in my projects section.
 <img align="right" alt="roja" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*Jwt-NggFZflXNmkndLYLJA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojaghasemi&label=Profile%20views&color=0e75b6&style=flat" alt="rojaghasemi" /> </p>
