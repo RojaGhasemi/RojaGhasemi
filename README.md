@@ -32,61 +32,61 @@ Highly accurate and experienced computer vision with several years of experience
 
 Here are some of my notable projects:
 
-### Brain Tumor Classification and Detection  (https://github.com/yourusername/project1)
+### Brain Tumor Classification and Detection  (https://github.com/RojaGhasemi/Brain-Tumor-Classification-and-Detection)
 - **Description**: Brain Tumor Classification and Detection Using Combination of Deep learning and Machine Learning from CT Scan Images.
 - **Technologies**: Python, Jupyter, TensorFlow, OpenCV , Keras.
 - **Status**: Under submission in Journal.
 
-### Distinguish Between Brain Tumor and Hemorrhage(https://github.com/yourusername/project2)
+### Distinguish Between Brain Tumor and Hemorrhage(https://github.com/RojaGhasemi/Distinguish-Between-Brain-Tumor-and-Hemorrhage)
 - **Description**: Distinguish Between Brain Tumor and Hemorrhage from Ct Scan images using Machine Learning and Deep Learning models (use Transfer learning, pe-trained modesl and fine-tunnig)  
 - **Technologies**: Python, Jupyter, PyTorch,TensorFlow, OpenCV , Keras, Pythorch.
  - **Status**: Under submission in Journal.
 
-### Distinguish Between Brain Tumor and Stroke (https://github.com/yourusername/project3)
+### Distinguish Between Brain Tumor and Ischemic Stroke (https://github.com/RojaGhasemi/Distinguish-Between-Brain-Tumor-and-Ischemic-Stroke)
 - **Description**: Distinguish Between Brain Tumor and Stroke from Ct Scan images using Deep Learning models (Use Transfer learning, pe-trained modesl)  
 - **Technologies**: Python, Spyder, PyTorch,TensorFlow, OpenCV , Keras, Pythorch.
 - **Status**: Under submission in Journal.
 
-### Convolutional Neural Networks for Image Classification on Fashion-MNIST Dataset (https://github.com/yourusername/project3)
+### Convolutional Neural Networks for Image Classification on Fashion-MNIST Dataset (https://github.com/RojaGhasemi/Convolutional-Neural-Networks-for-Image-Classification-on-Fashion-MNIST-Dataset)
 - **Description**: This research proposes a CNN-based architecture for classifying fashion-MNIST photos using convolutional neural networks. The fashion-MNIST dataset includes 28x28 grayscale pictures of 70,000 fashion                         items from 10 classifications. The model's accuracy exceeded 93% in experimental results.
 - **Technologies**: Python, Jupyter, PyTorch,TensorFlow, OpenCV , Keras, Pythorch.
 - **Status**: Under submission in Conference.
 
-### Project Title : Diagnosis of Brain Tumor based on Combining of DWT and Zernike moment and Fuzzy Segmentation (https://github.com/yourusername/project3)
+### Project Title : Diagnosis of Brain Tumor based on Combining of DWT and Zernike moment and Fuzzy Segmentation (https://github.com/RojaGhasemi/Diagnosis-of-Brain-Tumor-based-on-Combination-of-Texture-Features-and-Fuzzy-Segmentation-)
 - **Description**: The proposed method involves tumor segmentation, feature extraction, and classification using Zernike moments combination and discrete wavelet transform. The ACO algorithm selects useful features, and SVM cluster classifies them for tumor diagnosis. Fuzzy logic is used for tumor area segmentation. Experiments show efficiency and accuracy, with SVM having 88% accuracy.
 - **Technologies**: Matlab.
 
 
-### Diagnosis of Breast Cancer using Gabor wavelet and Locality Sensitive Discriminant Analysis from Digitized Mammogram Images (https://github.com/yourusername/project3)
+### Diagnosis of Breast Cancer using Gabor wavelet and Locality Sensitive Discriminant Analysis from Digitized Mammogram Images (https://github.com/RojaGhasemi/Diagnosis-of-Breast-Cancer-from-Mammogram-Images-)
 - **Description**: This article presents an automatic method for classifying mammography images into normal, benign, and malignant categories using Gabor filters and LSD analysis. Tested on DDSM database data, it outperforms K-NN classification algorithms, suitable for clinics and hospitals.
 - **Technologies**: Matlab.
 
 
-###  Tumor detection from mammography images using a combination of texture and local features (https://github.com/yourusername/project3)
+###  Tumor detection from mammography images using a combination of texture and local features (https://github.com/RojaGhasemi/Tumor-detection-in-mammography-using-a-combination-of-tissue-and-local-features)
 - **Description**: The study employs a combination of DWT, local binary pattern, Zernike moment combination, and gray level co-occurrence matrix for feature extraction in medical imaging. These techniques provide faster calculations, detailed analysis, and high recognition accuracy in K-NN classification, with results on MIAS and DDSM databases.
 - **Technologies**: C++, OpenCV.
 
-###  Melanoma Diagnosis based on Weighted Gabor Filter and Optimization Algorithm(https://github.com/yourusername/project3)
+###  Melanoma Diagnosis based on Weighted Gabor Filter and Optimization Algorithm(https://github.com/RojaGhasemi/Melanoma-Diagnosis-based-on-Weighted-Gabor-Filter-and-Optimization-algorithm)
 - **Description**: The research introduces a new algorithm for classifying skin images into malignant and benign types, achieving an accuracy of 89%, making it a safe and effective method for skin cancer detection.
 - **Technologies**: Matlab.
 
 
-###  Local weighted Pseudo Zernike Moments and fuzzy classification for facial expression recognition (https://github.com/yourusername/project3)
+###  Local weighted Pseudo Zernike Moments and fuzzy classification for facial expression recognition (https://github.com/RojaGhasemi/Facial-Expression-Recognition-using-Gabor-wavelet-and-neural-network)
 - **Description**:This paper presents a novel facial expression recognition method using locally weighted Pseudo Zernike Moments (LWPZM) and fuzzy classification. Extensive experimental investigation using the Radboud Faces database shows significant improvement in the method compared to other methods.
 - **Technologies**: Matlab.
 - **Status**: Publishe in IEEE: https://ieeexplore.ieee.org/document/6675658/authors#authors
 
-### Facial expression recognition using facial effective areas and Fuzzy logic (https://github.com/yourusername/project3)
+### Facial expression recognition using facial effective areas and Fuzzy logic (https://github.com/RojaGhasemi/facial-Expression-Recognition-Using-SIFT)
 - **Description**: This article proposes a new system using Fuzzy logic for facial expression recognition. The system uses a novel method for facial region extraction from static images, determining effective areas from integral projection curves. The system is robust, accurate, and superior to other approaches, achieving superior results on the JAFFE database.
 - **Technologies**: Matlab.
 - **Status**: Publishe in IEEE: https://ieeexplore.ieee.org/abstract/document/6802544/authors#authors
 
-### Diagnosis of Brain Tumor based on Moments of Local Binary Patterns and Discrete Wavelet Transform (https://github.com/yourusername/project3)
+### Diagnosis of Brain Tumor based on Moments of Local Binary Patterns and Discrete Wavelet Transform (https://github.com/RojaGhasemi/Diagnosis-of-Brain-Tumor-based-on-Moments-of-Local-Binary-Patterns-and-Discrete-Wavelet-Transform-)
 - **Description**: Diagnosis of brain tumor based on moments of local binary patterns and discrete wavelet transform from MRI images
 - **Technologies**: Matlab.
 
 
-###  Brain Tumor Detection using Local Features Extraction and Fuzzy Approach from MRI Images (https://github.com/yourusername/project3)
+###  Brain Tumor Detection using Local Features Extraction and Fuzzy Approach from MRI Images (https://github.com/RojaGhasemi/Brain-Tumor-Detection-)
 - **Description**: In this research, an automated method for finding the exact range of the abnormal brain region in an MRI image has been investigated. This algorithm is based on fuzzy fragmentation that is used to detect a tumor in a brain medical device. The fuzzy fragmentation algorithm has the ability to quickly diagnose areas with heterogeneous and asymmetric tissue in a medical image. In order to extract the feature from the Gabor filter, it is a powerful method for extracting image texture. The PCA algorithm has been used to select useful features. In the end, SVM has been used to categorize the extracted features and tumor detection.
 - **Technologies**: Matlab.
 
